@@ -1,0 +1,11 @@
+Node dependencies
+/Frontend/node_modules
+/Backend/node_modules
+C++ build artifacts
+*.o
+*.exe
+sequential_sort
+parallel_sort
+OS-specific files
+.DS_Store
+Thumbs.db
