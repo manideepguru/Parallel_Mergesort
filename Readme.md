@@ -8,7 +8,7 @@ The backend is powered by Node.js, which executes the compiled C++ programs, whi
 
 ## 📸 Screenshot
 
-![Application Screenshot](C:\Users\Manideep Guru\Pictures\Screenshots)
+![Application Screenshot](./assets/app-screenshot.png)
 
 
 
