@@ -8,9 +8,9 @@ The backend is powered by Node.js, which executes the compiled C++ programs, whi
 
 ## 📸 Screenshot
 
-![Application Screenshot](<PATH_TO_YOUR_SCREENSHOT_HERE>)
+![Application Screenshot](C:\Users\Manideep Guru\Pictures\Screenshots)
 
-*(**Action:** Replace the path above with a screenshot of your application, like the one you sent me. You can upload it to the repo later.)*
+
 
 ---
 
